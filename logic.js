@@ -81,3 +81,5 @@ function clear() {
 
 btnSearch.addEventListener('click', searchCondition);
 btnClear.addEventListener('click', clear);
+
+//https://mariohpintor.github.io/Travel-Recommendation-Web-Application/
